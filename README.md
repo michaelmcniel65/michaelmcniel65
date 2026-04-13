@@ -1,10 +1,14 @@
-## Hey there! I'm Michael 🍻
+<h1>Hey there! I'm Michael 🍻</h1>
 
-<br />
+<div>
+    <div>
+        I’m a Software Developer who enjoys building and improving backend systems using C#/.NET and SQL Server. Much of my work involves maintaining and modernizing legacy applications, solving complex problems, and making systems more reliable and efficient. Outside of my day-to-day work, I’m particularly interested in low-level programming and continue to explore C/C++ to deepen my understanding of how software works at its core.
+    </div>
+    <div>
+        test
+    </div>
+</div>
 
-
-
-<br />
 
 ## Links
 
