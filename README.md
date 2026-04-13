@@ -10,8 +10,17 @@
 
 
 
-## Links
+## Connect with me! 🌐
+<div>
+    <p>Best way to reach me is by email, but feel free to check me out elsewhere!</p>
+    Email: <a href="mailto:michaelcmcniel@gmail.com">michaelcmcniel@gmail.com</a>
+</div>
 
+<br/>
+<p><b>Links</b></p>
 <a href="https://www.linkedin.com/in/michaelmcniel65" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="Michael's LinkedIn Profile" />
+</a>
+<a href="https://www.youtube.com/@McNyloLT" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="Michael's YouTube Channel" />
 </a>
